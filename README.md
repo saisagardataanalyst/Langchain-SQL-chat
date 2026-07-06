@@ -21,7 +21,7 @@ Transform your database interaction experience with this Streamlit app that lets
 
 1. ⬇️ Clone the repository:
 ```bash
-git clone https://github.com/Yuvraj0014/Langchain-SQL-Chat.git
+git clone https://github.com/saisagardataanalyst/Langchain-SQL-chat.git
 cd langchain-sql-chat
 ```
 
